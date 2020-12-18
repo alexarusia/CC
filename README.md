@@ -1,1 +1,2 @@
-# CC
+# Screenshot
+![](docs/screenshot.png)
